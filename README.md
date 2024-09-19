@@ -4,6 +4,7 @@
 In the Azure environment, a dedicated **Data Factory (ADF) namespace** is used for development. During development, data is read from the storage account named **development**, while a separate storage account is used for production.
 ### **Architecture**
 ![Architecture!](AirLineDataCICD.png)
+
 The steps for setting up **ADF** in the development environment are as follows:
 
 1. **Linked Service Creation**: First, a linked service is set up for the storage account. This step involves specifying the storage account name, authentication details, and connection string for the storage account.
@@ -14,7 +15,7 @@ The steps for setting up **ADF** in the development environment are as follows:
 
 This outlines the development process for **ADF** in the Azure environment. 
 ### **Technology Used**
- 
+
  **Azure Cloud Platform**:
    - Azure Data Lake Storage (ADLS)
    - Azure DevOPS
