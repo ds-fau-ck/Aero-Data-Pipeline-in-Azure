@@ -20,5 +20,7 @@ This outlines the development process for **ADF** in the Azure environment.
    - Azure Data Lake Storage (ADLS)
    - Azure DevOPS
    - Azure Data Factory
-
+### **Data used for this Project**
+1. [Airport](Dataset/airports.csv)
+2. [Flight](Dataset/flights.csv)
 
