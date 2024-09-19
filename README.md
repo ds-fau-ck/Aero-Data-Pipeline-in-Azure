@@ -13,5 +13,5 @@ The steps for setting up **ADF** in the development environment are as follows:
 
 This outlines the development process for **ADF** in the Azure environment. 
 ### **Architecture**
-[Architecture](AirLineDataCICD.png)
+![Architecture!](AirLineDataCICD.png)
 
